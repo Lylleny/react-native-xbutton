@@ -1,14 +1,14 @@
 {
-  "name": "react-native-test",
+  "name": "react-native-xbutton",
   "version": "1.0.0",
-  "description": "(test demo to commite npm)",
+  "description": "react-native-xbutton both support iOS and android",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lylleny/react-native-test.git"
+    "url": "git+https://github.com/Lylleny/react-native-xbutton.git"
   },
   "keywords": [
     "test"
@@ -16,7 +16,7 @@
   "author": "Lylleny",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Lylleny/react-native-test/issues"
+    "url": "https://github.com/Lylleny/react-native-xbutton/issues"
   },
-  "homepage": "https://github.com/Lylleny/react-native-test#readme"
+  "homepage": "https://github.com/Lylleny/react-native-xbutton#readme"
 }
