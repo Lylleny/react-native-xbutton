@@ -24,7 +24,7 @@ export default class Example extends React.Componment{
       render(){
       	return(
            <View>
-             <Button text={"按钮"} styel={width:80,height:40,backgroundColor:'#'}/>
+             <Button text={"按钮"} styel={width:80,height:40,backgroundColor:'#f0f0f0'}/>
            </View>
       	)
       }
